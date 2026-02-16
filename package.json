@@ -1,0 +1,20 @@
+{
+  "name": "aflab4",
+  "version": "1.0.0",
+  "description": "A university project",
+  "homepage": "https://github.com/KWKArosha/AFlab4#readme",
+  "bugs": {
+    "url": "https://github.com/KWKArosha/AFlab4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KWKArosha/AFlab4.git"
+  },
+  "license": "ISC",
+  "author": "arosha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "abcdefgh"
+  }
+}
