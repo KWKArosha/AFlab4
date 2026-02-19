@@ -1,3 +1,4 @@
+const myPromise = require('./promises.js');
 async function myFunction() {
 try {
 const result = await myPromise;
